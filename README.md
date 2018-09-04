@@ -24,6 +24,8 @@ npm install
 #### Create .env File
 You will find a example.env file in the home directory. Paste the contents of that into a file named .env in the same directory. 
 Fill in the variables to fit your application
+Also you have to input your social screct key for social login on /config folder.
+
 
 ### Configuration of Database
 All tables are created when you run project firstly.
