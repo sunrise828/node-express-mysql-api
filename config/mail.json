@@ -1,0 +1,10 @@
+{
+    "auth": {
+        "user": YOUR_USER_GMAIL_ACCOUNT,
+        "pass": YOUR_GMAIL_PWD
+    },
+    "mailgun": {
+    	"key": YOUR_MAILGUN_KEY,
+    	"domain": YOUR_MAILGUN_DOMAIN
+    }
+}
